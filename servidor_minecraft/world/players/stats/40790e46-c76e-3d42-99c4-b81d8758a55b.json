@@ -1,0 +1,111 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:stick": 3,
+      "minecraft:cooked_beef": 64,
+      "minecraft:oak_planks": 21,
+      "minecraft:iron_spear": 1,
+      "minecraft:crafting_table": 3,
+      "minecraft:arrow": 2,
+      "minecraft:torch": 43,
+      "minecraft:iron_ingot": 1,
+      "minecraft:cobbled_deepslate": 16,
+      "minecraft:raw_iron": 20,
+      "minecraft:water_bucket": 1,
+      "minecraft:leaf_litter": 3,
+      "minecraft:cooked_mutton": 46,
+      "minecraft:string": 9,
+      "minecraft:oak_log": 6,
+      "minecraft:stone_sword": 1,
+      "minecraft:shield": 1,
+      "minecraft:golden_apple": 1,
+      "minecraft:wooden_spear": 1,
+      "minecraft:glow_ink_sac": 3
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 29,
+      "minecraft:stone_sword": 14,
+      "minecraft:leaf_litter": 3,
+      "minecraft:cobbled_deepslate": 5,
+      "minecraft:wooden_spear": 4,
+      "minecraft:iron_pickaxe": 3,
+      "minecraft:cooked_beef": 1,
+      "minecraft:water_bucket": 4,
+      "minecraft:cooked_mutton": 8,
+      "minecraft:bucket": 4,
+      "minecraft:crafting_table": 1,
+      "minecraft:chest": 1,
+      "minecraft:iron_spear": 5,
+      "minecraft:oak_planks": 9,
+      "minecraft:furnace": 1,
+      "minecraft:torch": 23,
+      "minecraft:stone_pickaxe": 24
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 20,
+      "minecraft:time_since_rest": 417,
+      "minecraft:walk_one_cm": 58805,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 1098,
+      "minecraft:mob_kills": 7,
+      "minecraft:damage_taken": 1343,
+      "minecraft:play_time": 25291,
+      "minecraft:damage_dealt": 954,
+      "minecraft:jump": 493,
+      "minecraft:time_since_death": 391,
+      "minecraft:drop": 15,
+      "minecraft:interact_with_furnace": 12,
+      "minecraft:sprint_one_cm": 115544,
+      "minecraft:open_chest": 3,
+      "minecraft:fall_one_cm": 14526,
+      "minecraft:total_world_time": 25291,
+      "minecraft:swim_one_cm": 109,
+      "minecraft:fly_one_cm": 118888,
+      "minecraft:walk_on_water_one_cm": 3251,
+      "minecraft:crouch_one_cm": 2193,
+      "minecraft:sneak_time": 823,
+      "minecraft:deaths": 2,
+      "minecraft:player_kills": 1
+    },
+    "minecraft:mined": {
+      "minecraft:wall_torch": 1,
+      "minecraft:spawner": 2,
+      "minecraft:deepslate": 13,
+      "minecraft:fire": 1,
+      "minecraft:deepslate_iron_ore": 12,
+      "minecraft:crafting_table": 1,
+      "minecraft:leaf_litter": 1,
+      "minecraft:oak_log": 6,
+      "minecraft:oak_planks": 19,
+      "minecraft:cobweb": 8
+    },
+    "minecraft:dropped": {
+      "minecraft:crafting_table": 1,
+      "minecraft:cooked_mutton": 10,
+      "minecraft:wooden_spear": 1,
+      "minecraft:glow_ink_sac": 3
+    },
+    "minecraft:crafted": {
+      "minecraft:furnace": 1,
+      "minecraft:stone_sword": 1,
+      "minecraft:stick": 8,
+      "minecraft:iron_ingot": 6,
+      "minecraft:iron_spear": 1,
+      "minecraft:shield": 1,
+      "minecraft:oak_planks": 24,
+      "minecraft:chest": 1,
+      "minecraft:iron_pickaxe": 1,
+      "minecraft:air": 0,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:killed": {
+      "minecraft:skeleton": 1,
+      "minecraft:cave_spider": 2
+    },
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 1,
+      "minecraft:creeper": 1
+    }
+  },
+  "DataVersion": 4790
+}

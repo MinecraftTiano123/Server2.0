@@ -1,0 +1,180 @@
+[03:16:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[03:16:38] [Worker-Main-2/INFO]: No existing world data, creating new world
+[03:16:39] [ServerMain/INFO]: Loaded 1515 recipes
+[03:16:39] [ServerMain/INFO]: Loaded 1617 advancements
+[03:16:39] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[03:16:39] [Server thread/INFO]: Loading properties
+[03:16:39] [Server thread/INFO]: Default game type: SURVIVAL
+[03:16:39] [Server thread/INFO]: Generating keypair
+[03:16:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:16:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:16:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:16:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:16:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:16:40] [Server thread/INFO]: Preparing level "world"
+[03:16:41] [Server thread/INFO]: Selecting global world spawn...
+[03:16:47] [Server thread/INFO]: Loading 0 persistent chunks...
+[03:16:47] [Server thread/INFO]: Preparing spawn area: 100%
+[03:16:47] [Server thread/INFO]: Time elapsed: 6587 ms
+[03:16:47] [Server thread/INFO]: Done (7.256s)! For help, type "help"
+[03:16:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:16:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:16:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:16:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:16:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:16:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:16:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:17:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:20:14] [Server thread/INFO]: JoaoSlander[/100.119.10.70:57390] logged in with entity id 15 at (-8.5, 72.0, 5.5)
+[03:20:14] [Server thread/INFO]: JoaoSlander joined the game
+[03:20:32] [Server thread/INFO]: Juanest99[/100.115.87.66:50785] logged in with entity id 444 at (5.5, 70.0, 4.5)
+[03:20:32] [Server thread/INFO]: Juanest99 joined the game
+[03:21:50] [Server thread/INFO]: shin[/100.72.244.38:3414] logged in with entity id 869 at (3.5, 69.0, 6.5)
+[03:21:50] [Server thread/INFO]: shin joined the game
+[03:22:35] [Server thread/INFO]: Juanest99 has made the advancement [Stone Age]
+[03:22:55] [Server thread/INFO]: JoaoSlander has made the advancement [Stone Age]
+[03:23:05] [Server thread/INFO]: Juanest99 has made the advancement [Getting an Upgrade]
+[03:23:44] [Server thread/INFO]: JoaoSlander has made the advancement [Getting an Upgrade]
+[03:23:46] [Server thread/INFO]: shin has made the advancement [Stone Age]
+[03:24:24] [Server thread/INFO]: shin has made the advancement [Getting an Upgrade]
+[03:25:57] [Server thread/INFO]: millie7u7[/100.76.182.58:51456] logged in with entity id 2241 at (7.5, 81.0, -6.5)
+[03:25:57] [Server thread/INFO]: millie7u7 joined the game
+[03:27:59] [Server thread/INFO]: millie7u7 has made the advancement [Stone Age]
+[03:29:01] [Server thread/INFO]: shin has made the advancement [Monster Hunter]
+[03:30:38] [Server thread/INFO]: Juanest99 has made the advancement [Sweet Dreams]
+[03:33:16] [Server thread/INFO]: JoaoSlander has made the advancement [Sweet Dreams]
+[03:33:42] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[03:34:33] [Server thread/INFO]: _NATz_[/100.70.117.88:53566] logged in with entity id 5809 at (-4.5, 68.0, 6.5)
+[03:34:33] [Server thread/INFO]: _NATz_ joined the game
+[03:34:52] [Server thread/INFO]: millie7u7 has made the advancement [Monster Hunter]
+[03:35:08] [Server thread/INFO]: [Not Secure] <_NATz_> donde estan
+[03:35:37] [Server thread/INFO]: Juanest99 has made the advancement [Monster Hunter]
+[03:38:14] [Server thread/INFO]: Juanest99 has made the advancement [Acquire Hardware]
+[03:38:17] [Server thread/INFO]: _NATz_ was blown up by Creeper
+[03:38:54] [Server thread/INFO]: Juanest99 has made the advancement [Isn't It Iron Pick]
+[03:39:09] [Server thread/INFO]: millie7u7 has made the advancement [Getting an Upgrade]
+[03:39:17] [Server thread/INFO]: JoaoSlander has made the advancement [Acquire Hardware]
+[03:39:54] [Server thread/INFO]: JoaoSlander has made the advancement [Monster Hunter]
+[03:41:06] [Server thread/INFO]: Tomate[/100.64.41.68:65327] logged in with entity id 9405 at (-1.5, 75.0, -2.5)
+[03:41:06] [Server thread/INFO]: Tomate joined the game
+[03:41:20] [Server thread/INFO]: shin has made the advancement [Acquire Hardware]
+[03:41:27] [Server thread/INFO]: Made Tomate a server operator
+[03:41:31] [Server thread/INFO]: [Tomate: Teleported Tomate to Juanest99]
+[03:42:11] [Server thread/INFO]: [Tomate: Teleported Tomate to _NATz_]
+[03:42:26] [Server thread/INFO]: JoaoSlander has made the advancement [Not Today, Thank You]
+[03:44:22] [Server thread/INFO]: [Tomate: Set own game mode to Creative Mode]
+[03:44:34] [Server thread/INFO]: Tomate has made the advancement [Getting an Upgrade]
+[03:44:41] [Server thread/INFO]: JoaoSlander has made the advancement [Isn't It Iron Pick]
+[03:44:48] [Server thread/INFO]: [Tomate: Set own game mode to Survival Mode]
+[03:44:51] [Server thread/INFO]: [Tomate: Teleported Tomate to JoaoSlander]
+[03:45:47] [Server thread/INFO]: [Tomate: Teleported Juanest99 to Tomate]
+[03:46:25] [Server thread/INFO]: Tomate has made the advancement [Stone Age]
+[03:46:45] [Server thread/INFO]: JoaoSlander has made the advancement [Diamonds!]
+[03:47:11] [Server thread/INFO]: millie7u7 has made the advancement [Sweet Dreams]
+[03:47:22] [Server thread/INFO]: _NATz_ has made the advancement [Sweet Dreams]
+[03:48:32] [Server thread/INFO]: [Tomate: Teleported Tomate to JoaoSlander]
+[03:49:00] [Server thread/INFO]: [Tomate: The difficulty has been set to Hard]
+[03:49:59] [Server thread/INFO]: Tomate has made the advancement [Monster Hunter]
+[03:51:09] [Server thread/INFO]: Juanest99 has made the advancement [Diamonds!]
+[03:52:54] [Server thread/INFO]: Juanest99 hit the ground too hard while trying to escape Cave Spider
+[03:52:55] [Server thread/WARN]: Trying to set block entity net.minecraft.world.level.block.entity.BrushableBlockEntity@eddafc5 at position BlockPos{x=-564, y=41, z=965}, but state Block{minecraft:chest}[facing=north,type=single,waterlogged=false] does not allow it
+[03:53:03] [Server thread/INFO]: [Tomate: Teleported Juanest99 to Tomate]
+[03:53:05] [Server thread/INFO]: Jose4116[/100.115.219.22:60210] logged in with entity id 20186 at (6.5, 72.0, 4.5)
+[03:53:05] [Server thread/INFO]: Jose4116 joined the game
+[03:53:09] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=71, z=10}
+[03:53:09] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=70, z=10}
+[03:53:50] [Server thread/INFO]: Tomate has made the advancement [Acquire Hardware]
+[03:54:23] [Server thread/INFO]: Tomate has made the advancement [Isn't It Iron Pick]
+[03:54:40] [Server thread/INFO]: shin has made the advancement [Isn't It Iron Pick]
+[03:54:52] [Server thread/INFO]: [Not Secure] <Jose4116> ./gamemode creative
+[03:56:01] [Server thread/INFO]: Jose4116 has made the advancement [Stone Age]
+[03:57:19] [Server thread/INFO]: Jose4116 has made the advancement [Getting an Upgrade]
+[03:57:39] [Server thread/INFO]: [Tomate: Teleported Tomate to Juanest99]
+[03:58:37] [Server thread/INFO]: Juanest99 has made the advancement [Hot Stuff]
+[03:58:54] [Server thread/INFO]: Tomate was shot by Skeleton
+[03:58:58] [Server thread/INFO]: [Tomate: Teleported Tomate to JoaoSlander]
+[03:59:00] [Server thread/INFO]: Juanest99 has made the advancement [Not Today, Thank You]
+[03:59:33] [Server thread/INFO]: Tomate lost connection: Disconnected
+[03:59:33] [Server thread/INFO]: Tomate left the game
+[04:00:34] [Server thread/INFO]: JoaoSlander has made the advancement [Hot Stuff]
+[04:00:55] [Server thread/INFO]: millie7u7 has made the advancement [Best Friends Forever]
+[04:01:26] [Server thread/INFO]: shin has made the advancement [Suit Up]
+[04:02:15] [Server thread/INFO]: Jose4116 has made the advancement [Acquire Hardware]
+[04:05:07] [Server thread/INFO]: millie7u7 has made the advancement [Acquire Hardware]
+[04:05:39] [Server thread/INFO]: millie7u7 has made the advancement [Isn't It Iron Pick]
+[04:06:25] [Server thread/INFO]: [Not Secure] <_NATz_> buu
+[04:06:33] [Server thread/INFO]: JoaoSlander has made the advancement [We Need to Go Deeper]
+[04:06:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2911ms or 58 ticks behind
+[04:06:35] [Server thread/INFO]: Juanest99 has made the advancement [We Need to Go Deeper]
+[04:07:56] [Server thread/INFO]: Villager Villager['Villager'/23659, l='ServerLevel[world]', x=-238.28, y=105.00, z=103.30] died, message: 'Villager was slain by Zombie'
+[04:08:53] [Server thread/INFO]: Set minecraft:overworld to time marker minecraft:day
+[04:09:09] [Server thread/INFO]: Tomate[/100.64.41.68:63580] logged in with entity id 30731 at (45.591252224395745, -52.0, 379.6951918636508)
+[04:09:09] [Server thread/INFO]: Tomate joined the game
+[04:09:21] [Server thread/INFO]: Tomate has made the advancement [We Need to Go Deeper]
+[04:09:26] [Server thread/INFO]: [Tomate: Teleported Tomate to JoaoSlander]
+[04:09:36] [Server thread/INFO]: [Tomate: Teleported Tomate to Juanest99]
+[04:10:10] [Server thread/INFO]: Jose4116 lost connection: You logged in from another location
+[04:10:10] [Server thread/INFO]: Jose4116 left the game
+[04:10:10] [Server thread/WARN]: handleDisconnection() called twice
+[04:10:11] [Server thread/INFO]: Jose4116[/100.115.219.22:57124] logged in with entity id 31585 at (-258.69999998807907, 18.0, 313.30000001192093)
+[04:10:11] [Server thread/INFO]: Jose4116 joined the game
+[04:10:42] [Server thread/INFO]: Juanest99 was slain by Tomate
+[04:10:42] [Server thread/INFO]: Jose4116 has made the advancement [Monster Hunter]
+[04:10:57] [Server thread/INFO]: [Tomate: Teleported Juanest99 to Tomate]
+[04:11:07] [Server thread/INFO]: [Tomate: Teleported JoaoSlander to Tomate]
+[04:11:11] [Server thread/INFO]: shin has made the advancement [Not Today, Thank You]
+[04:11:24] [Server thread/INFO]: Juanest99 was slain by Zombie
+[04:11:26] [Server thread/INFO]: Tomate was blown up by Creeper
+[04:11:30] [Server thread/INFO]: [Tomate: Teleported Tomate to JoaoSlander]
+[04:11:39] [Server thread/INFO]: Jose4116 has made the advancement [Not Today, Thank You]
+[04:11:46] [Server thread/INFO]: Tomate lost connection: Disconnected
+[04:11:46] [Server thread/INFO]: Tomate left the game
+[04:12:04] [Server thread/INFO]: Jose4116 has made the advancement [Isn't It Iron Pick]
+[04:13:49] [Server thread/INFO]: Jose4116 has made the advancement [Suit Up]
+[04:13:51] [Server thread/INFO]: _NATz_ has made the advancement [Getting an Upgrade]
+[04:14:34] [Server thread/INFO]: _NATz_ has made the advancement [Stone Age]
+[04:15:53] [Server thread/INFO]: shin was blown up by Creeper
+[04:16:15] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=84, z=-9}
+[04:16:18] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=84, z=-9}
+[04:16:28] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=83, z=-9}
+[04:16:29] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=84, z=-9}
+[04:16:44] [Server thread/INFO]: _NATz_ was shot by Skeleton
+[04:16:47] [Server thread/INFO]: millie7u7 was shot by Skeleton
+[04:19:53] [Server thread/INFO]: Jose4116 has made the advancement [Diamonds!]
+[04:23:03] [Server thread/INFO]: Jose4116 has made the advancement [Cover Me with Diamonds]
+[04:24:20] [Server thread/INFO]: Jose4116 was blown up by Creeper
+[04:24:31] [Server thread/INFO]: millie7u7 was slain by Zombie
+[04:24:33] [Server thread/INFO]: _NATz_ was slain by Iron Golem
+[04:24:48] [Server thread/INFO]: shin was shot by Skeleton
+[04:25:13] [Server thread/INFO]: JoaoSlander lost connection: Disconnected
+[04:25:13] [Server thread/INFO]: JoaoSlander left the game
+[04:25:30] [Server thread/INFO]: Juanest99 lost connection: Disconnected
+[04:25:30] [Server thread/INFO]: Juanest99 left the game
+[04:26:34] [Server thread/INFO]: [Not Secure] <_NATz_> woas
+[04:27:19] [Server thread/INFO]: shin has made the advancement [A Seedy Place]
+[04:27:25] [Server thread/INFO]: Jose4116 tried to swim in lava
+[04:27:36] [Server thread/INFO]: shin has made the advancement [Sweet Dreams]
+[04:27:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=66, z=6}
+[04:27:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=66, z=6}
+[04:27:53] [Server thread/INFO]: _NATz_ has made the advancement [Isn't It Iron Pick]
+[04:28:39] [Server thread/INFO]: shin has made the advancement [Ice Bucket Challenge]
+[04:29:17] [Server thread/INFO]: _NATz_ lost connection: Disconnected
+[04:29:17] [Server thread/INFO]: _NATz_ left the game
+[04:29:34] [Server thread/INFO]: millie7u7 lost connection: Disconnected
+[04:29:34] [Server thread/INFO]: millie7u7 left the game
+[04:29:38] [Server thread/INFO]: shin lost connection: Disconnected
+[04:29:38] [Server thread/INFO]: shin left the game
+[04:29:48] [Server thread/INFO]: Jose4116 lost connection: Disconnected
+[04:29:48] [Server thread/INFO]: Jose4116 left the game
+[04:30:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:32:33] [Server thread/INFO]: Stopping the server
+[04:32:33] [Server thread/INFO]: Stopping server
+[04:32:33] [Server thread/INFO]: Saving players
+[04:32:33] [Server thread/INFO]: Saving worlds
+[04:32:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:32:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:32:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:32:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
